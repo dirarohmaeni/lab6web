@@ -298,23 +298,7 @@ Kemudia buka Browser untuk melihat hasilnya
 ![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%204.png)
 
 
-12. Selanjutnya ketik kode berikut untuk menambahkan Pilih Topik
-```html
-<div class="mb-3">
-              <label for="inputTopik" class="form-label">Pilih Topik</label>
-              <select class="form-select" id="inputTopik" name="inputTopik">
-                <option selected>Pilih salah satu...</option>
-                <option value="1">Layanan Informasi</option>
-                <option value="2">Permintaan Dukungan</option>
-                <option value="3">Masukan Umum</option>
-              </select>
-            </div>
-```
-Kemudia buka Browser untuk melihat hasilnya
-![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%205.png)
-
-
-13. Selanjutnya ketik kode berikut untuk menambahkan Kirim Folmulir
+12. Selanjutnya ketik kode berikut untuk menambahkan Kirim Folmulir
 ```html
 <div class="d-grid mt-4">
               <button type="submit" class="btn btn-primary btn-lg">
@@ -330,7 +314,7 @@ Kemudia buka Browser untuk melihat hasilnya
 ![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%205.png)
 
 
-# Fortpolio
+13. Selanjutnya buat file dengan nama portfolio.html lalu ketik kode berikut.
 ```html
 <!DOCTYPE html>
 <html lang="en">
