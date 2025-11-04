@@ -207,7 +207,7 @@ Kemudia buka Browser untuk melihat hasilnya
 ![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%205.png)
 
 
-7. selanjutnya ketik kode berikut untuk menambahkan footer
+7. Selanjutnya ketik kode berikut untuk menambahkan footer
     <footer class="bg-dark text-white text-center py-3 mt-4">
       <p class="mb-0">&copy; 2024 Refactored with Bootstrap</p>
     </footer>
@@ -217,7 +217,7 @@ Kemudia buka Browser untuk melihat hasilnya
 ![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%206.png)
 
 
-8. Kemudian buat file dengan nama form.html lalu ketik kode berikut.
+8. Selanjutnya buat file dengan nama form.html lalu ketik kode berikut.
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -240,8 +240,11 @@ Kemudia buka Browser untuk melihat hasilnya
           <h2 class="mb-4 text-center">Form Input Data</h2>
 </html>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%201.png)
 
-Selanjutnya
+
+9. Selanjutnya ketik kode berikut untuk menambahkan Nama Lengkap
 ```html
 <form name="myForm" onsubmit="return validasiForm()">
             <div class="mb-3">
@@ -255,8 +258,11 @@ Selanjutnya
               />
             </div>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%202.png)
 
-lanjuut
+
+10.  Selanjutnya ketik kode berikut untuk menambahkan Alamat Email
 ```html
  <div class="mb-3">
               <label for="inputEmail" class="form-label">Alamat Email</label>
@@ -269,8 +275,11 @@ lanjuut
               />
             </div>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%203.png)
 
-lanjut
+
+11. Selanjutnya ketik kode berikut untuk menambahkan Pesan / Komentar
 ```html
 <div class="mb-3">
               <label for="inputPesan" class="form-label"
@@ -285,8 +294,11 @@ lanjut
               ></textarea>
             </div>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%204.png)
 
-lanjut
+
+12. Selanjutnya ketik kode berikut untuk menambahkan Pilih Topik
 ```html
 <div class="mb-3">
               <label for="inputTopik" class="form-label">Pilih Topik</label>
@@ -298,8 +310,11 @@ lanjut
               </select>
             </div>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%205.png)
 
-lanjut
+
+13. Selanjutnya ketik kode berikut untuk menambahkan Kirim Folmulir
 ```html
 <div class="d-grid mt-4">
               <button type="submit" class="btn btn-primary btn-lg">
@@ -311,6 +326,9 @@ lanjut
       </div>
     </div>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%205.png)
+
 
 # Fortpolio
 ```html
