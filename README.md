@@ -65,8 +65,10 @@
 </html>
 ```
 Kemudian buka Browser untuk melihat hasilnya
-![foto](
-SElanjutnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%201.png)
+
+
+3. Selanjutnya ketik kode berikut untuk menambahkan Artikel & Fitur Utama
 ```html
 <div class="row">
         <div class="col-md-8">
@@ -126,12 +128,39 @@ SElanjutnya
             </div>
           </div>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![fot](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%202.png)
 
-SElanjutnya
+
+4. Selanjutnya ketik kode berikut untuk menambahkan First featurette heading
+```html
+ <hr class="mb-4" />
+          <article class="py-3">
+            <hr class="divider" />
+            <article class="entry">
+              <h2>First featurette heading.</h2>
+              <img src="https://dummyimage.com/150/7b8a70/fff.png" alt="">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem
+                elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla,
+                vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc
+                pretium ac.</p>
+            </article>
+            <hr class="divider" />
+            <article class="entry">
+              <h2>First featurette heading.</h2>
+              <img src="https://dummyimage.com/150/7b8a70/fff.png" alt=""
+              class="right-img">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem
+                elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla,
+                vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc
+                pretium ac.</p>
+              </article>
+```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%203.png)
 
 
-
-Selanjutnya
+5. Selanjutnya ketik kode berikut untuk menambahkan View detail Heading
 ``html
 <div class="col-md-4">
           <h3 class="mb-3">Sidebar Widget</h3>
@@ -154,8 +183,11 @@ Selanjutnya
             </ul>
           </div>
           ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%204.png)
 
-          SElanjutnya
+
+6. Selanjutnya ketik kode berikut untuk menambahkan Sidebar Widget
           ```html
           <div class="card shadow-sm">
             <div class="card-header bg-light fw-bold">Widget Text</div>
@@ -171,15 +203,21 @@ Selanjutnya
       </div>
     </div>
     ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%205.png)
 
-    selanjutnya
+
+7. selanjutnya ketik kode berikut untuk menambahkan footer
     <footer class="bg-dark text-white text-center py-3 mt-4">
       <p class="mb-0">&copy; 2024 Refactored with Bootstrap</p>
     </footer>
     </body>
     ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/index/image%206.png)
 
-# form
+
+8. Kemudian buat file dengan nama form.html lalu ketik kode berikut.
 ```html
 <!DOCTYPE html>
 <html lang="en">
