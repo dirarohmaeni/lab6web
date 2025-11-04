@@ -298,7 +298,7 @@ Kemudia buka Browser untuk melihat hasilnya
 ![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/form/foto%204.png)
 
 
-12. Selanjutnya ketik kode berikut untuk menambahkan Kirim Folmulir
+12. Selanjutnya ketik kode berikut untuk menambahkan Kirim Folmulir.
 ```html
 <div class="d-grid mt-4">
               <button type="submit" class="btn btn-primary btn-lg">
@@ -364,8 +364,11 @@ Kemudia buka Browser untuk melihat hasilnya
     </nav>
 </html>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/portfolio/hasil%201.png)
 
-lanjut
+
+14. Selanjutnya ketik kode berikut untuk menambahkan Padding.
 ```html
  <section id="tentang" class="section-padding bg-light">
       <div class="container">
@@ -381,8 +384,11 @@ lanjut
             />
           </div>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/portfolio/hasil%202.png)
 
-lanjut
+
+15. Selanjutnya ketik kode berikut untuk menambahkan Display.
 ```html
 <div class="col-md-8">
             <h1 class="display-4">[Dira Rohmaeni]</h1>
@@ -403,8 +409,11 @@ lanjut
       </div>
     </section>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/portfolio/hasil%203.png)
 
-lanjut
+
+16. Selanjutnya ketik kode berikut untuk menambahkan Padding.
 ```html
  <section id="portfolio" class="section-padding">
       <div class="container">
@@ -474,8 +483,11 @@ lanjut
       </div>
     </section>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/portfolio/hasil%204.png)
 
-lanjut
+
+17. Selanjutnya ketik kode berikut untuk menambahkan Footer. 
 ```html
  <footer class="bg-dark text-white text-center py-3">
       <div class="container">
@@ -483,3 +495,5 @@ lanjut
       </div>
     </footer>
 ```
+Kemudia buka Browser untuk melihat hasilnya
+![foto](https://github.com/dirarohmaeni/lab6web/blob/9a715c623e0685ebd7ef1619940a0813fe54d460/lab%206/portfolio/hasil%205.png)
