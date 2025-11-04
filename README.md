@@ -2,6 +2,10 @@
 ### NIM: 312410465
 ### Kelas: TI.24.A5
 
+# langkah langkah praktikum 6 Twitter Bootstrap
+
+1. Buat folder dengan nama LAB6_BOOTSTRAP
+2. Kemudian buat file dengan nama index.html lalu ketik kode berikut.
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -60,7 +64,8 @@
     </body>
 </html>
 ```
-
+Kemudian buka Browser untuk melihat hasilnya
+![foto](
 SElanjutnya
 ```html
 <div class="row">
